@@ -28,5 +28,5 @@ What's Inside This Repository
 
 README.md: This file.
 nmap_scan_results.txt: Full Nmap scan output 
-Screenshot_1.png: Initial Nmap scan screenshot.
-Screenshot_2.png: Full network range Nmap scan screenshot.
+single_host_scan.png: Initial Nmap scan screenshot.
+network_range_scan.png: Full network range Nmap scan screenshot.
